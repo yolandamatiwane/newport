@@ -93,6 +93,9 @@ body , body  [data-bs-theme=light] {
   font-size: 40px;
   /* color: white; */
 }
+#link{
+  font-size: 20px;
+}
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
