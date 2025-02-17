@@ -63,10 +63,13 @@ body {
   text-align: left;
   background-color: #fff; 
 }
-#home-section, #about-section, #skills-section, #resume-section, #projects-section, #contact-section, #footer{
+/* #home-section, #about-section, #skills-section, #resume-section, #projects-section, #contact-section, #footer{
   width: 100vw;
-}
+} */
 
+.owl-carousel {
+  touch-action: pan-y;
+}
 body , body  [data-bs-theme=light] {
   --bs-blue: #4BA1A7;
   --bs-red: #F0756C;
