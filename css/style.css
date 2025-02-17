@@ -8690,6 +8690,14 @@ h1, h2, h3, h4, h5,
         .owl-carousel.home-slider .owl-dots .owl-dot.active {
           background: #fff; }
 
+@media (max-width: 997px) {
+    .one-third {
+        background-image: url(/images/Untitled\ design\ \(15\).png) !important;
+        background-size: cover;
+        background-position: center;
+    }
+}
+
 .hero-wrap {
   width: 100%;
   height: 100%;
